@@ -57,7 +57,7 @@
             "url": "https://github.com/AR31313/NPSHikeSearchTool"
         }
     ],
-    "Skills": [
+    "services": [
         {
             "id": "1",
             "title": "Web Developer",
@@ -71,7 +71,7 @@
         {
             "id": "3",
             "title": "Environmental Scientist",
-            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+            "description": "Earned Bachelor of Science with Environmental Focus from University of Washington. Extensive data analysis experience, field sampling, etc."
         },
         {
             "id": "4",
